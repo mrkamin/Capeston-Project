@@ -150,7 +150,7 @@ nav {
 }
 
 .sectionone.about {
-  height: 135vh;
+  height: 95vh;
 }
 
 .sectionone-overlay-heroimage.about > a {
@@ -416,7 +416,7 @@ main {
   padding: 15px;
   margin-bottom: 28px;
   overflow-y: auto;
-  height: 264px;
+  height: 220px;
 }
 
 .sectionone-overlay-heroimage.about > span {
@@ -566,7 +566,7 @@ main {
 
   .sectionone-overlay-heroimage > h2 {
     color: #ec5242;
-    font-size: 51px;
+    font-size: 45px;
   }
 
   .sectionone-overlay-heroimage {
